@@ -1,0 +1,1 @@
+INSERT INTO song (title, artist) VALUES ('love u bache','dsp');
